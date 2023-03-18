@@ -4,7 +4,7 @@
 - 📖 Sunway University -> `Student` / 42 Kuala Lumpur -> `Cadet`
 - 🌐 Socials:
   <br>
-  <a href="discordapp.com/users/631528423931510794">
+  <a href="https://www.discordapp.com/users/631528423931510794">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
   <br>
