@@ -57,4 +57,8 @@
 </div>
 
 ## Stats 📈
-
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaiAnTan&theme=dark">
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiAnTan&layout=compact&theme=dark&hide=Roff">
+<div>
