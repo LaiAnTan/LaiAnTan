@@ -62,5 +62,5 @@
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiAnTan&layout=compact&theme=dark&hide=Roff,Makefile">
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaiAnTan&layout=compact&theme=dark&hide=Makefile,Objective-C,Markdown,JSON,Other">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaiAnTan&layout=compact&theme=dark&hide=Git%20Config,Makefile,Objective-C,Markdown,JSON,Roff,Text,Other">
 <div>
