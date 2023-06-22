@@ -63,4 +63,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiAnTan&layout=compact&theme=dark&hide=Roff,Makefile">
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaiAnTan&layout=compact&theme=dark&hide=Git%20Config,Makefile,Objective-C,Markdown,JSON,Roff,Text,Other">
+  <br>
+  <img align="center" src="https://streak-stats.demolab.com/?user=LaiAnTan&theme=dark">
 <div>
