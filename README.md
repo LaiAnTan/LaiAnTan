@@ -1,7 +1,9 @@
 ### About Me 👋
 
 - 🎂 I was born in `2004`
+  <br>
 - 📖 Sunway & Monash University -> `Student` / 42 Kuala Lumpur -> `Cadet`
+  <br>
 - 🌐 Socials:
   <br>
   <br>
@@ -14,11 +16,10 @@
   </a>
   
 ## Setup 💻
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
-  
+  - OS: `Linux - WSL` <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+    <br>
+  - IDE: `Visual Studio Code` <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
+    <br>
 ## Skills ⚒️
 
 #### Languages I know
