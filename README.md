@@ -2,7 +2,10 @@
 
 - 🎂 I was born in `2004`
   <br>
-- 📖 Sunway & Monash University -> `Student` / 42 Kuala Lumpur -> `Cadet`
+- 📖 Studies
+  - 42 Kuala Lumpur -> `Cadet` 
+  - Monash University Malaysia -> `Student`
+  -  Sunway College -> `Alumni`
   <br>
 - 🌐 Socials:
   <br>
@@ -63,7 +66,7 @@
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaiAnTan&layout=compact&theme=dark&hide=Roff,Makefile"> -->
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaiAnTan&layout=compact&theme=dark&hide=Git%20Config,Makefile,Objective-C,Markdown,JSON,Roff,Text,Other">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LaiAnTan&layout=compact&theme=dark&hide=Git%20Config,Makefile,Objective-C,Markdown,JSON,Roff,Text,Other,Ezhil,">
   <br>
   <img align="center" src="https://streak-stats.demolab.com/?user=LaiAnTan&theme=dark">
 <div>
