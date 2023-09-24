@@ -60,6 +60,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"/>
 </div>
 
+## Currently Working On
+- [Webserv💻](https://github.com/LaiAnTan/42KL-Webserv): A C++ Webserver
+- [Python For Data Science Piscine🐍](https://github.com/LaiAnTan/42KL-Piscine-Python)
+
 ## Stats 📈
 <div>
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaiAnTan&theme=dark">
