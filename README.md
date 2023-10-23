@@ -1,6 +1,7 @@
 ### About Me 👋
 
 - 🎂 I was born in `2004`
+- Started developing in `2022`
   <br>
 - 📖 Studies
   - 42 Kuala Lumpur -> `Cadet` 
@@ -62,7 +63,7 @@
 
 ## Currently Working On
 - [Webserv💻](https://github.com/LaiAnTan/42KL-Webserv): A C++ Webserver
-- [Python For Data Science Piscine🐍](https://github.com/LaiAnTan/42KL-Piscine-Python)
+- University Assignments
 
 ## Stats 📈
 <div>
