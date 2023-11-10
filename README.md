@@ -65,7 +65,6 @@
 
 ## Currently Working On
 - [Webserv💻](https://github.com/LaiAnTan/42KL-Webserv): A C++ Webserver
-- University Assignments
 
 ## Stats 📈
 <div>
