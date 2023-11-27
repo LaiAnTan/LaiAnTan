@@ -65,8 +65,9 @@
 </div>
 
 ## Currently Working On
-- [Webserv💻](https://github.com/LaiAnTan/42KL-Webserv): A C++ Webserver
-- Learning Godot // GdScript!
+- ft_transcendence, 42KL's inal project
+- Sunway X 42KL Clubs & Societies Platform
+- 42KL game jam finalist's polishing
 
 ## Stats 📈
 <div>
