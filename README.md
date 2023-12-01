@@ -66,9 +66,9 @@
 </div>
 
 ## Currently Working On
-- ft_transcendence, 42KL's inal project
+- ft_transcendence, 42KL's final project
 - Sunway X 42KL Clubs & Societies Platform
-- 42KL game jam finalist's polishing
+- AWS Cloud Practictioner Essentials Certification
 
 ## Stats 📈
 <div>
