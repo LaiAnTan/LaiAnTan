@@ -73,7 +73,6 @@
 ## Currently Working On
 - ft_transcendence, 42KL's final project
 - Sunway X 42KL Clubs & Societies Platform
-- AWS Cloud Practictioner Essentials Certification
 - Advent Of Code 2023 in JS
 
 ## Stats 📈
