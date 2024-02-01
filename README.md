@@ -1,5 +1,7 @@
 ### About Me 👋
 
+Hi! I am an aspiring software enthusiast with an interest in AI, Cybersecurity and DevOps.
+
 - 🎂 I was born in `2004`
 - Started developing in `May-2022`
   <br>
@@ -8,6 +10,7 @@
   - Monash University Malaysia -> `Student`
   -  Sunway College -> `Alumni`
   <br>
+  
 - 🌐 Socials:
   <br>
   <br>
@@ -77,7 +80,6 @@
 
 ## Currently Working On
 - ft_transcendence
-- inception
 - Sunway X 42KL Clubs & Societies Platform
 
 ## Stats 📈
