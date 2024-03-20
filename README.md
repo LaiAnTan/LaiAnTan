@@ -2,7 +2,6 @@
 
 Hi! I am an aspiring software enthusiast with an interest in AI, Cybersecurity and DevOps.
 
-- 🎂 I was born in `2004`
 - Started developing in `May-2022`
   <br>
 - 📖 Studies
@@ -81,6 +80,7 @@ Hi! I am an aspiring software enthusiast with an interest in AI, Cybersecurity a
 ## Currently Working On
 - ft_transcendence
 - Sunway X 42KL Clubs & Societies Platform
+- University
 
 ## Stats 📈
 <div>
