@@ -78,9 +78,9 @@ Hi! I am an aspiring software enthusiast with an interest in AI, Cybersecurity a
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## Currently Working On
-- ft_transcendence
 - Sunway X 42KL Clubs & Societies Platform
 - University
+- Specialisation
 
 ## Stats 📈
 <div>
