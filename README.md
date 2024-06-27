@@ -1,6 +1,6 @@
 ### About Me 👋
 
-Hi! I am an aspiring software enthusiast with an interest in AI, Cybersecurity and DevOps.
+Hi! I am a software enthusiast with an interest in AI, Cybersecurity and DevOps.
 
 - Started developing in `May-2022`
   <br>
