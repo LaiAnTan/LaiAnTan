@@ -5,7 +5,7 @@ Hi! I am a software enthusiast with an interest in AI, Cybersecurity and DevOps.
 - Started developing in `May-2022`
   <br>
 - 📖 Studies
-  - 42 Kuala Lumpur -> `Cadet` 
+  - 42 Kuala Lumpur -> `Specialisation Cadet` 
   - Monash University Malaysia -> `Student`
   -  Sunway College -> `Alumni`
   <br>
@@ -80,8 +80,8 @@ Hi! I am a software enthusiast with an interest in AI, Cybersecurity and DevOps.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## Currently Working On
-- University
-- Specialisation
+- Building a High Performance Computing cluster
+- Writing a executable packer
 
 ## Stats 📈
 <div>
